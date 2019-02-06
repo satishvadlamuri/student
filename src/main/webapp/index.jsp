@@ -1,4 +1,4 @@
-class Student{ 
+Student{ 
      int rollno;  
           String name;  
 	       static String college = "ITS";  
